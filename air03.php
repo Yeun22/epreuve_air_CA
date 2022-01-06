@@ -22,4 +22,4 @@ array_shift($argv);
 $result = findTheOne($argv);
 
 //Render
-echo " L'intru est : $result \n";
+echo "$result \n";

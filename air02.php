@@ -1,6 +1,5 @@
 <?php
 
-
 function concat_array_to_string(array $arr, string $separator)
 {
     $outputString = "";
